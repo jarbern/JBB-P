@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JBB/static/css/main.e6b29ff6.chunk.css",
+    "main.js": "/JBB/static/js/main.ec5cc787.chunk.js",
+    "main.js.map": "/JBB/static/js/main.ec5cc787.chunk.js.map",
+    "runtime-main.js": "/JBB/static/js/runtime-main.280cde44.js",
+    "runtime-main.js.map": "/JBB/static/js/runtime-main.280cde44.js.map",
+    "static/js/2.fd20b7bd.chunk.js": "/JBB/static/js/2.fd20b7bd.chunk.js",
+    "static/js/2.fd20b7bd.chunk.js.map": "/JBB/static/js/2.fd20b7bd.chunk.js.map",
+    "index.html": "/JBB/index.html",
+    "precache-manifest.15fdb9c06db326a303ae291c798a83c1.js": "/JBB/precache-manifest.15fdb9c06db326a303ae291c798a83c1.js",
+    "service-worker.js": "/JBB/service-worker.js",
+    "static/css/main.e6b29ff6.chunk.css.map": "/JBB/static/css/main.e6b29ff6.chunk.css.map",
+    "static/js/2.fd20b7bd.chunk.js.LICENSE": "/JBB/static/js/2.fd20b7bd.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.280cde44.js",
+    "static/js/2.fd20b7bd.chunk.js",
+    "static/css/main.e6b29ff6.chunk.css",
+    "static/js/main.ec5cc787.chunk.js"
+  ]
+}
